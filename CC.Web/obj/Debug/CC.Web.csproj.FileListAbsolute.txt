@@ -1,0 +1,80 @@
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\CC.Web.dll.config
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\CC.Web.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\CC.Web.pdb
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\CC.DataAccess.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\CC.Model.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\EntityFramework.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\Breeze.ContextProvider.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\Newtonsoft.Json.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\CC.DataAccess.pdb
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\CC.Model.pdb
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\EntityFramework.xml
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\bin\Newtonsoft.Json.xml
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\obj\Debug\CC.Web.dll
+C:\Users\ashageev\Documents\_PluralsightCode\CC.Web\CC.Web\obj\Debug\CC.Web.pdb
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\CC.Web.dll.config
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\CC.Web.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\CC.Web.pdb
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\CC.DataAccess.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\CC.Model.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\EntityFramework.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\Breeze.ContextProvider.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\Newtonsoft.Json.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\CC.DataAccess.pdb
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\CC.Model.pdb
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\EntityFramework.xml
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\bin\Newtonsoft.Json.xml
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\obj\Debug\CC.Web.dll
+D:\НАШ ПРОЕКТ\Vyoutube\_PluralsightCode\CC.Web\CC.Web\obj\Debug\CC.Web.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\CC.Web.dll.config
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\CC.Web.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\CC.Web.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\CC.DataAccess.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\CC.Model.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\EntityFramework.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\Breeze.ContextProvider.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\Newtonsoft.Json.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\CC.DataAccess.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\CC.Model.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\EntityFramework.xml
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\bin\Newtonsoft.Json.xml
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\obj\Debug\CC.Web.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CC.Web\CC.Web\obj\Debug\CC.Web.pdb
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\CC.Web.dll.config
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\CC.Web.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\CC.Web.pdb
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\CC.DataAccess.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\CC.Model.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\EntityFramework.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\Breeze.ContextProvider.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\Newtonsoft.Json.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\CC.DataAccess.pdb
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\CC.Model.pdb
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\EntityFramework.xml
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\bin\Newtonsoft.Json.xml
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\obj\Debug\CC.Web.dll
+C:\Users\ashageev\Documents\_WAYTOM.COM\WTM.Web\CC.Web\obj\Debug\CC.Web.pdb
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\CC.Web.dll.config
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\CC.Web.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\CC.Web.pdb
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\CC.DataAccess.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\CC.Model.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\EntityFramework.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\Breeze.ContextProvider.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\Newtonsoft.Json.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\CC.DataAccess.pdb
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\CC.Model.pdb
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\EntityFramework.xml
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\bin\Newtonsoft.Json.xml
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\obj\Debug\CC.Web.dll
+D:\НАШ ПРОЕКТ\14.09.15\WTM.Web\CC.Web\obj\Debug\CC.Web.pdb

@@ -1,0 +1,36 @@
+﻿
+<section class="mainbar" ng-controller="login as vm">
+    <section class="matter">
+        <div class="container">
+            <div class="widget login wgreen">
+                <div class="widget-head" title="Вход">
+                    <div class="page-title pull-left">Вход</div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="widget-content user">
+                    <form class="form-login" role="form">
+                        <div class="form-group">
+                            <label class="control-label">Логин</label>
+                            <div>
+                                <input type="text" class="form-control" placeholder="Логин" ng-model="vm.loginData.userName" required autofocus>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Пароль</label>
+                            <div>
+                                <input type="password" class="form-control" placeholder="Пароль" ng-model="vm.loginData.password" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" value="Войти" class="btn btn-success" ng-click="vm.login()"><span class="control-label">Войти</span></button>
+                        </div>
+                        <div ng-hide="vm.message == ''" class="alert alert-danger">
+                            {{vm.message}}
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
